@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+Campus Study Companion is a web-based application designed to improve student productivity, collaboration, and time management through an integrated digital platform. The system provides a centralized environment where students can connect with compatible study partners, organize study schedules, and maintain academic consistency efficiently.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application includes a study group matching system that filters users based on multiple parameters such as subject, academic year, preferred study timing, and study mode. To support focused learning, the platform integrates a Pomodoro-based focus timer with audio support, helping users manage study sessions effectively. A study streak tracker visualized through bar graphs allows students to monitor their consistency and progress over time.
 
-## Available Scripts
+For communication and collaboration, the project features a WhatsApp-style chat system that enables seamless peer interaction. Additional productivity tools, including a digital blackboard and goal management system, further enhance the learning experience and make the platform more interactive.
 
-In the project directory, you can run:
+The application also incorporates a secure user authentication module with email validation, mandatory field verification, and password reset functionality. User profiles present essential academic details in a clean and organized tabular format for easy access and management.
 
-### `npm start`
+Developed using HTML, CSS, JavaScript, and ReactJS, the project uses LocalStorage for lightweight client-side data persistence. The user interface follows a modern sunset-themed design with glowing buttons, shimmer animations, and layered visual elements to create an engaging user experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Overall, Campus Study Companion offers a lightweight, user-friendly, and visually appealing solution that promotes collaborative learning, effective communication, and better study habits among students.
