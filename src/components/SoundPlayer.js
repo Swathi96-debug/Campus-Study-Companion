@@ -6,8 +6,7 @@ function SoundPlayer() {
   return (
     <div>
       <h3>Focus Sound</h3>
-      <audio ref={audioRef} src="/rain.mp3" />
-
+      <audio ref={audioRef} src={process.env.PUBLIC_URL + "/rain.mp3"} />
       <button onClick={() => audioRef.current.play()}>Play</button>
       <button onClick={() => audioRef.current.pause()}>Pause</button>
     </div>
