@@ -40,7 +40,11 @@ function Timer() {
 
       <div className="sound-player">
         <p>🎵 Study Ambiance</p>
-        <audio controls src="/rain.mp3" className="clean-audio"></audio>
+       <audio
+  controls
+  src={process.env.PUBLIC_URL + "/rain.mp3"}
+  className="clean-audio"
+></audio>
       </div>
     </div>
   );
