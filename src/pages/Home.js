@@ -20,10 +20,24 @@ function Home() {
       </div>
 
       <div className="image-stack">
-        <img src="/study.png" alt="Study" className="stack-img img1" />
-        <img src="/timer.png" alt="Timer" className="stack-img img2" />
-        <img src="/book.png" alt="Book" className="stack-img img3" />
-      </div>
+  <img
+    src={process.env.PUBLIC_URL + "/study.png"}
+    alt="Study"
+    className="stack-img img1"
+  />
+
+  <img
+    src={process.env.PUBLIC_URL + "/timer.png"}
+    alt="Timer"
+    className="stack-img img2"
+  />
+
+  <img
+    src={process.env.PUBLIC_URL + "/book.png"}
+    alt="Book"
+    className="stack-img img3"
+  />
+</div>
 
       <footer className="footer-fancy">
         ❤️ Made with love by a VITian for VITians ❤️
