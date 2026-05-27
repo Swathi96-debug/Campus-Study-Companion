@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Campus-Study-Companion/static/css/main.b9ba5e36.css",
+    "main.js": "/Campus-Study-Companion/static/js/main.d3e2e632.js",
+    "static/js/453.1224157c.chunk.js": "/Campus-Study-Companion/static/js/453.1224157c.chunk.js",
+    "index.html": "/Campus-Study-Companion/index.html",
+    "main.b9ba5e36.css.map": "/Campus-Study-Companion/static/css/main.b9ba5e36.css.map",
+    "main.d3e2e632.js.map": "/Campus-Study-Companion/static/js/main.d3e2e632.js.map",
+    "453.1224157c.chunk.js.map": "/Campus-Study-Companion/static/js/453.1224157c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9ba5e36.css",
+    "static/js/main.d3e2e632.js"
+  ]
+}
